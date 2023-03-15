@@ -1,0 +1,14 @@
+#marcopc{
+    display: inline-block;
+    background-color: dodgerblue;
+}
+#encab{
+    text-align: center;
+    color: blue;
+}
+.capacitacion {
+    display: inline-block;
+    width: 48%;
+    text-align: justify;
+    padding: 6px;
+}
